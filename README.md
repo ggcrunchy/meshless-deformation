@@ -15,7 +15,7 @@ and drag it around, possibly for decent cloth or jelly mechanics.
 
 Quadratic interpolation, clustering, and plasticity NYI.
 
-===
+---
 
 ![image](deform1.gif)
 
