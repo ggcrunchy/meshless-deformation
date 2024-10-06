@@ -1,5 +1,5 @@
 # meshless-deformation
-A little test following the ideas in [Meshless Deformation Based On Shape Matching](Meshless Deformations Based on Shape Matching).
+A little test following the ideas in [Meshless Deformation Based On Shape Matching](https://graphics.stanford.edu/courses/cs468-05-fall/Papers/p471-muller.pdf).
 
 It's a bit of a mess at the moment, as I got hit by the bug described in these comments:
 
